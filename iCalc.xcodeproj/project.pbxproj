@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		352471092077740A00AFDAE9 /* .travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = 352471082077740A00AFDAE9 /* .travis.yml */; };
 		3564E48E206685950055CCC6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3564E48D206685950055CCC6 /* AppDelegate.swift */; };
 		3564E490206685950055CCC6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3564E48F206685950055CCC6 /* ViewController.swift */; };
 		3564E493206685950055CCC6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3564E491206685950055CCC6 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		352471082077740A00AFDAE9 /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = .travis.yml; sourceTree = "<group>"; };
 		3564E48A206685950055CCC6 /* iCalc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iCalc.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3564E48D206685950055CCC6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3564E48F206685950055CCC6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 		3564E481206685950055CCC6 = {
 			isa = PBXGroup;
 			children = (
+				352471082077740A00AFDAE9 /* .travis.yml */,
 				3564E48C206685950055CCC6 /* iCalc */,
 				3564E48B206685950055CCC6 /* Products */,
 			);
@@ -128,6 +131,7 @@
 			files = (
 				3564E498206685950055CCC6 /* LaunchScreen.storyboard in Resources */,
 				3564E495206685950055CCC6 /* Assets.xcassets in Resources */,
+				352471092077740A00AFDAE9 /* .travis.yml in Resources */,
 				3564E493206685950055CCC6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
